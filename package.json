@@ -1,0 +1,25 @@
+{
+  "name": "ionic",
+  "version": "1.0.0",
+  "description": "De Ionic app die we gaan bouwen maakt gebruik van Angular 5, TypeScript en all the",
+  "main": "latest & greatest technieken! Voorkennis van JavaScript is een pré, zorg er daarnaast",
+  "scripts": {
+    "test": "voor dat je Node.js op je laptop geïnstalleerd hebt staan.echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartBastingsSogeti/ionic.git"
+  },
+  "keywords": [
+    "ionic"
+  ],
+  "author": "Bart Bastings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BartBastingsSogeti/ionic/issues"
+  },
+  "homepage": "https://github.com/BartBastingsSogeti/ionic#readme",
+  "devDependencies": {
+    "cordova": "^8.0.0"
+  }
+}
